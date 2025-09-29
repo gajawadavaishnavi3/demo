@@ -1,3 +1,4 @@
 # demo
-my first git repository
-learning new
+my first git repository.
+<br>
+learning new things.
